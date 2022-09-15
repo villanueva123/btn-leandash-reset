@@ -1,0 +1,20 @@
+form.btn-reset-progress {
+    background: #fff;
+    padding: 20px;
+}
+.btn-ld-reset-selector {
+    width: 100%;
+    display: block;
+}
+form.btn-reset-progress label{
+    display: block;
+    font-weight: bold;
+}
+.btn-ld-reset-wrapper{
+    display: flex;
+}
+.btn-ld-reset-wrapper button {
+    margin-right: 15px !important;
+    width: 100%;
+    max-width: 189px;
+}
